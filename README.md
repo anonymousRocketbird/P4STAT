@@ -1,6 +1,6 @@
 # ML-based Real-time Monitoring and Line Rate Feature Extraction with P4
 
-This repository contains material accompanying the paper **STAT: In-Network Feature Computation for ML-based Real-time Monitoring at 100G Line Rate with P4** submitted for review to NSDI'23.
+This repository contains material accompanying the paper **P4STAT: In-Network Extraction of Statistical Features for AI/ML-driven Real-time Traffic Monitoring at 100G Line Rate** submitted for review to NSDI'23.
 
 ## Prerequisites
 - bf-sde version 8.9
